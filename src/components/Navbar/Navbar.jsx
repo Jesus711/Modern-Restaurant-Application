@@ -26,7 +26,7 @@ const Navbar = () => {
     <div className="app__navbar-login">
       <a href="#login" className="p__opensans">Log in / Register</a>
       <div />
-      <a href="https://jesus711.github.io/Modern-Restaurant-Application/" className="p__opensans">Book Table</a>
+      <a href="#" className="p__opensans">Book Table</a>
     </div>
 
     {/* Mobile Hamburger Menu: Will be display: none, and will only appear on small width devices */}
