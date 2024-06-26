@@ -101,7 +101,7 @@
   width: 45px;
 }
 
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 2100px) {
   .custom__button,
   .p__cormorant {
     font-size: 37px;
